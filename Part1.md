@@ -7,8 +7,8 @@ header-includes:
   - \fancyfoot[L]{Curated by Lamhot Siagian}
   - \fancyfoot[C]{\thepage}
 ---
+![image](https://github.com/user-attachments/assets/0eec0c4f-b9fb-4c3c-bdd4-9d70a9fac51d)
 
-![image](https://github.com/user-attachments/assets/7e1da1f8-cf8c-42d9-882f-fc967bcf8b00)
 
 ## 💻 1. Languages: Java
 
