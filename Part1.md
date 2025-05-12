@@ -8,6 +8,9 @@ header-includes:
   - \fancyfoot[C]{\thepage}
 ---
 
+![a3f7c2d8-1e98-4471-8909-1c64db179f56](https://github.com/user-attachments/assets/dfd6c4d8-fc4e-4c59-88b1-20c07f65792c)
+
+
 ## 💻 1. Languages: Java
 
 **Q1. Describe a time you designed a maintainable test framework in Java.**  
