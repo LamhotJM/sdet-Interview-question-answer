@@ -1,4 +1,6 @@
-# 10 signs it’s time to improve or even replace, your automation framework and how to fix
+# 10 signs it’s time to improve or even replace your automation framework and how to fix
+![image](https://github.com/user-attachments/assets/caad1dac-24cd-40f6-abaa-3c9f48de8c60)
+
 
 **Author:** Lamhot Siagian 🔗 [LinkedIn](https://www.linkedin.com/in/lamhotsiagian)
 ## 1. 🔄 Frequent “Flaky” Tests  
