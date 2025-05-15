@@ -3,6 +3,9 @@
 
 
 **Author:** Lamhot Siagian 🔗 [LinkedIn](https://www.linkedin.com/in/lamhotsiagian)
+
+---
+
 ## 1. 🔄 Frequent “Flaky” Tests  
 When automated tests randomly pass or fail without any code or application changes, it’s usually a sign your framework can’t reliably synchronize with dynamic elements (AJAX loads, animations) or external factors (network latency, third-party services). Flakiness erodes team confidence in your suite, leading to constant reruns and hours lost hunting phantom failures.  
 
