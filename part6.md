@@ -1,9 +1,7 @@
-## Ready to ace your next SDET coding interview? Use this proven blueprint to structure every solution
-
+# Ready to ace your next SDET coding interview? Use this proven blueprint to structure every solution
 ![proven blueprint to structure every solution](img_1.png)
 
 **Author:** Lamhot Siagian 🔗 [LinkedIn](https://www.linkedin.com/in/lamhotsiagian)
-
 ---
 
 1. **Clarifying Questions**
@@ -12,8 +10,6 @@
 4. **Basic Solution** (clean, easy-to-understand Java)
 5. **Improved Solution** (more concise)
 6. **What We Improved**
-
-
 
 ## 1. Two Sum
 
