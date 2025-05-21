@@ -1,7 +1,31 @@
 # How did you build a robust mobile-testing automation framework?
+When you’re asked “How did you build a robust mobile-testing automation framework?” in an interview, aim for a STAR-style response that highlights why you made each choice, what you built, and the impact it delivered. Here’s a template plus a concrete example:
 
-![img_2.png](img_2.png)
----
+![Mobile Automation Framework](img_2.png)
+
+**Curated by:** Lamhot Siagian 🔗 [LinkedIn](https://www.linkedin.com/in/lamhotsiagian)
+Here are five top YouTube videos that align perfectly with building a robust, AI-powered, BDD-driven mobile-testing framework:
+
+1. **Appium Cucumber BDD Framework | Java + Maven + Extent Report**
+   A hands-on tutorial showing how to integrate Appium with Cucumber/Gherkin, drive scenarios in Java/Maven, and generate rich ExtentReports. ([YouTube][1])
+
+2. **Mobile Test Automation Tools for 2024 and beyond**
+   An up-to-date overview of the leading mobile test-automation tools, cloud labs, and emerging best practices you need to know this year. ([YouTube][2])
+
+3. **3 – Write your first Cucumber Test with Gherkin Feature File**
+   Step-by-step walkthrough on crafting your very first BDD scenario in Gherkin and wiring up step definitions in Java. ([YouTube][3])
+
+4. **Make Selenium Smarter with GenAI | Self-Healing Locators & AI**
+   Demo of how generative AI can detect UI changes, auto-update locators, and dramatically reduce test flakiness. ([YouTube][4])
+
+5. **LLMs and Test Automation: A New Era of Self Healing**
+   Exploration of leveraging large language models to analyze failures, predict flaky tests, and continuously improve your automation suite. ([YouTube][5])
+
+[1]: https://www.youtube.com/watch?v=qXdZ80hRBzI&utm_source=chatgpt.com "Appium Cucumber BDD Framework | Java + Maven + Extent Report"
+[2]: https://www.youtube.com/watch?v=brOKeXg5ni4&utm_source=chatgpt.com "Mobile Test Automation Tools for 2024 and beyond - YouTube"
+[3]: https://www.youtube.com/watch?pp=ygUJI2JkZHN0ZXBz&v=t54-83glFaM&utm_source=chatgpt.com "3 - Write your first #Cucumber Test with (#Gherkin) Feature File"
+[4]: https://www.youtube.com/watch?v=2uugc7aJKW8&utm_source=chatgpt.com "Make Selenium Smarter with GenAI | Self-Healing Locators & AI ..."
+[5]: https://www.youtube.com/watch?v=HmQoAHCUGxo&utm_source=chatgpt.com "LLMs and Test Automation: A New Era of Self Healing | Shray Sharma"
 
 ## 1. Context & Requirements
 
