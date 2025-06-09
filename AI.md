@@ -1,5 +1,8 @@
 ## AI Trends in Automation Test 2025
 
+**Curated by :** Lamhot Siagian 🔗 [LinkedIn](https://www.linkedin.com/in/lamhotsiagian)
+
+
 ### API 🛠️
 
 | 🚀 Section Title                                                      | 🧰 Tools / Libraries Used                               | 🎯 Key Learning Outcomes                                                     |
