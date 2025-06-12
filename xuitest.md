@@ -1,6 +1,6 @@
-Below are 20 common XCUITest challenges you’ll often encounter in real-world iOS UI tests
+# Top 140  IOS Mobile Testing Interview Questions (with common XCUITest Code challenges )
 
-Below are the top 10 SDET-level interview questions for each XCUITest topic you outlined. These can help hiring managers assess both conceptual understanding and hands-on proficiency.
+**Author:** Lamhot Siagian 🔗 [LinkedIn](https://www.linkedin.com/in/lamhotsiagian)
 
 ---
 
@@ -184,7 +184,7 @@ Below are the top 10 SDET-level interview questions for each XCUITest topic you 
 
 ---
 
-## Chapter 13 – 20 Common XCUITest Code Interview
+## Chapter 13 – 20 common XCUITest challenges you’ll often encounter in real-world iOS UI tests
 
 1. **Verify App Launch**
 
